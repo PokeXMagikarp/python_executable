@@ -1,0 +1,9 @@
+How to make executables from python script:
+1.	Open anaconda prompt
+2.	Type “conda env list”
+3.	Type “conda activate <choose_env>”
+4.	Type ”cd <choose_directory>”
+5.	Type “pip install pyinstaller”
+6.	Type “pyinstaller <choose_python_script>”
+7.	Wait
+8.	done
